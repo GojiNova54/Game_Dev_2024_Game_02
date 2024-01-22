@@ -1,3 +1,6 @@
 [submodule "GameDev2024_Game02/Assets/Scripts_Tools"]
 	path = GameDev2024_Game02/Assets/Scripts_Tools
 	url = https://github.com/GojiNova54/GameDev_Tools_Scripts
+[submodule "GameDev2024_Game02/Assets/Tools"]
+	path = GameDev2024_Game02/Assets/Tools
+	url = https://github.com/GojiNova54/ArtisanDream.Tools
